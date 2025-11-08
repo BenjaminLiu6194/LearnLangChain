@@ -1,2 +1,2 @@
 # LearnLangChain
-A Short Tutorial App for Langchain, was curious how it works.
+A short tutorial App for Langchain, I was curious how it works.
